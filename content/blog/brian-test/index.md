@@ -1,10 +1,17 @@
 ---
-title: Hello World
-date: "2015-05-01"
+title: Brian Test
+date: "2020-05-01"
 description: "Hello World"
 ---
 
-This is my first post on my new fake blog! How exciting!
+这个测试是针对中文的
+
+## 我也不知道会怎么样
+
+```js
+// test 中文
+var test = '能'
+```
 
 I'm sure I'll write a lot more interesting things in the future.
 

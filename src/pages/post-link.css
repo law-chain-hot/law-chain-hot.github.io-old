@@ -1,0 +1,30 @@
+.post-link {
+  background-color: white;
+  padding: 0 10px;
+  transition: 0.35s;
+}
+.post-link:hover{
+    background-color: rgba(100, 100, 100, 0.267);
+}
+
+h4 {
+  padding: 5px 0;
+  margin: 0px;
+}
+
+.post-list-li {
+  margin: 0px;
+}
+
+.post-list-item {
+  margin: 0px;
+}
+
+.post-list-ol {
+  padding: 0px;
+  background-color: white;
+}
+
+header{
+    margin-bottom: 4rem;
+}
