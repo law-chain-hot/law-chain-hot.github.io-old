@@ -1,6 +1,7 @@
 module.exports = {
+  pathPrefix: "/luo-blog",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Luo's Blog`,
     author: {
       name: `Qianhao Luo`,
       summary: `who lives and works in San Francisco building useful things.`,
@@ -66,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/luo-icon.png`,
       },
     },
     {
