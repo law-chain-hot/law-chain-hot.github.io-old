@@ -38,7 +38,7 @@ const BlogIndex = ({ data, location }) => {
                 itemScope
                 itemType="http://schema.org/Article"
               >
-                <Link to={post.fields.slug} itemProp="url" className="">
+                <Link to={post.fields.slug} itemProp="url" className="post-list-link">
                   <header>
                     <h4>
                       <span itemProp="headline">{title}</span>

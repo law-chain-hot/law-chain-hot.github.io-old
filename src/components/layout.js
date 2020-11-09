@@ -24,18 +24,6 @@ const Layout = ({ location, title, children }) => {
     )
   }
 
-  const getDate = () => {
-    date = new Date()
-    return {
-      year: date.getFullYear(),
-      month: date.getMonth(),
-      day: date.getDate(),
-    }
-  }
-
-  const date = new Date()
-  console.log("Layout -> date", date)
-
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className="global-header">{header}</header>
