@@ -1,5 +1,5 @@
 ---
-title: 2020年4月|拿到intern offer后的小总结
+title: 2020年4月 | 拿到intern offer后的小总结
 date: "2020-11-7"
 description: "我是如何从零基础到淘系前端offer --- 阶段性总结"
 ---
