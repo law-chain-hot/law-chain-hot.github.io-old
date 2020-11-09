@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Luo's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 09 Nov 2020 00:24:21 GMT</lastBuildDate><item><title><![CDATA[我的第一个中文测试post]]></title><description><![CDATA[这个测试是针对中文的 我现在是标题1 我是标题3 哈哈哈    what]]></description><link>https://gatsby-starter-blog-demo.netlify.app/brian-test-chinese/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/brian-test-chinese/</guid><pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;这个测试是针对中文的&lt;/h2&gt;
-&lt;p&gt;我现在是标题1&lt;/p&gt;
-&lt;h3&gt;我是标题3&lt;/h3&gt;
-&lt;p&gt;哈哈哈  &lt;code class=&quot;language-text&quot;&gt;ww&lt;/code&gt; &lt;/p&gt;
-&lt;p&gt;what &lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;- No1
-- teset&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Brian Test]]></title><description><![CDATA[这个测试是针对中文的 我也不知道会怎么样 I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a great quote from this Wikipedia on…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/brian-test/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/brian-test/</guid><pubDate>Fri, 01 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;这个测试是针对中文的&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Luo's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 09 Nov 2020 00:54:35 GMT</lastBuildDate><item><title><![CDATA[Brian Test]]></title><description><![CDATA[这个测试是针对中文的 我也不知道会怎么样 I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a great quote from this Wikipedia on…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/brian-test/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/brian-test/</guid><pubDate>Sun, 01 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;这个测试是针对中文的&lt;/p&gt;
 &lt;h2&gt;我也不知道会怎么样&lt;/h2&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// test 中文&lt;/span&gt;
 &lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; test &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;能&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -189,316 +183,287 @@ __double underscores__&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;This paragraph has some &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt; in it.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This paragraph has some `code` in it.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;&lt;img src=&quot;https://placehold.it/200x50&quot; alt=&quot;Alt Text&quot; title=&quot;Image Title&quot;&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![Alt Text](https://placehold.it/200x50 &amp;quot;Image Title&amp;quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/new-beginnings/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/new-beginnings/</guid><pubDate>Thu, 28 May 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
-&lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![Alt Text](https://placehold.it/200x50 &amp;quot;Image Title&amp;quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[【归档】淘系实习offer记录 + 前端学习总结]]></title><description><![CDATA[原标题 《我是如何从零基础到淘系前端offer --- 阶段性总结》 image1 零、 这篇文章是什么 这是我阶段性总结，写这篇文章有…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/review-intern-interview/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/review-intern-interview/</guid><pubDate>Fri, 01 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;原标题 《我是如何从零基础到淘系前端offer --- 阶段性总结》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/57960778/80261595-7bc16900-8650-11ea-9cf8-c0ad9e8c7d43.png&quot; alt=&quot;image1&quot;&gt;&lt;/p&gt;
+&lt;h1&gt;零、 这篇文章是什么&lt;/h1&gt;
+&lt;p&gt;这是我阶段性总结，写这篇文章有 2 个目的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;自我回顾&lt;/strong&gt;，是我对自己过去转码学习的总结&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;回馈社区&lt;/strong&gt;，因为学习的时候获得了社区提供的很多帮助&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如果我的经历和你有相似，同时也帮助到你，那真是太好了。&lt;/p&gt;
+&lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;This however showed weasel&lt;/li&gt;
+&lt;li&gt;注意：因为有自我回顾的部分，所以如果下文可能会某些流水账一样的东西，可以跳过，那是因为我单纯想回顾下当时的情景和心态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;一、我的背景介绍&lt;/h1&gt;
+&lt;p&gt;我本科的专业是能源与动力工程，研究生专业是农业与生物工程，现在马上要结束研究生的第三个学期。本科跟着老师参加过我们专业的相关的竞赛，也做过科研，是用 Matlab 做模拟，如果算上本科学的 C 语言，那么他们俩是我本科唯二的与写码有关的东西。&lt;/p&gt;
+&lt;p&gt;既然我与 Computer Science (CS) 联系也不多，那为什么转行 CS ？  &lt;/p&gt;
+&lt;p&gt;因为我做的方向虽然是工科，但这个方向工程价值并不是特别高。而且我自己对写码一直有一种迷之憧憬，加上当时申请到了研究生这个学校，它的 CS 课不错，我选课也没有专业限制，所以决定转行 CS。&lt;/p&gt;
+&lt;p&gt;于是研究生第一学期上了一门 CS 课程，数据挖掘。第二学期上了两门，人工智能和数据结构。我也就是在第二学期接触的前端。&lt;/p&gt;
+&lt;p&gt;诶，等等，你不是说你零基础吗，你看你不是学过数据结构嘛？标题党，举报了。哈哈，别，我是学数据结构的同时学的前端，前端是零基础开始学的。好啦，我知道啦，别说我了，每个人前端都是从零开始学习的 😝&lt;/p&gt;
+&lt;p&gt;总之，这就是我的背景啦，然后我 19 年下半年开始学习前端，虽然期间还在上课，但是接触了前端后，几乎是半脱产的状态在学习。接下来我会详细叙述我的学习经历，面试经历，和我的一些学习的想法。&lt;/p&gt;
+&lt;p&gt;OK，先说下我的淘系面试经历吧&lt;/p&gt;
+&lt;h1&gt;二、我的淘系面试经历&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这个章节，我更多的偏记录，所以会有些流水账，我把它折叠了，不想看的小伙伴可以跳过&lt;/p&gt;
+&lt;p&gt;面试淘系之前，有看过很多的面经，但是除了一面的时候被问了很多基础知识，后面就被问得很少了，所以这个面经不具备通用性。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;面试的过程是 4 轮技术面 + 1 轮 HR 面，因为当时没有记录，我只能挑还记得的问题说&lt;/p&gt;
+&lt;h3&gt;一面&lt;/h3&gt;
+&lt;p&gt;一面和常规一样，考察基础知识，经典的题目有浏览器缓存，闭包一句话解释下，网页优化的技巧等等&lt;/p&gt;
+&lt;h3&gt;二面&lt;/h3&gt;
+&lt;p&gt;然后，二面我记得最清楚，完全出乎我意料，被降维打击了。面试官是一位 P8 大佬（难道大佬都不按照套路出牌？）&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;点击下方按钮，展开内容👇&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;details&gt;
+    &lt;summary&gt; &lt;b&gt;点我点我点我&lt;/b&gt; 🚀 &lt;/summary&gt;
+&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Well uncritical so misled&lt;/p&gt;
+&lt;p&gt;给大家还原下当时的场景，如何从一个点，穿透到你的&lt;strong&gt;知识边界&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;this is very interesting&lt;/li&gt;
+&lt;li&gt;面试官说，&lt;code class=&quot;language-text&quot;&gt;看你学过数据结构，讲讲你觉得哪个数据结构最有意思吧&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;第一个问题我直接懵了，不是该常规的 JS CSS 和 计算机网络 来一套吗。但是也就是懵了 0.5 秒，脑子里开始疯狂思索有哪些数据结构可以拿出来说。我首先想到了&lt;code class=&quot;language-text&quot;&gt;map&lt;/code&gt;，第二个想到 &lt;code class=&quot;language-text&quot;&gt;tree&lt;/code&gt;，本来想说说树，但是电光火之间我想到我可能会给自己挖坑，因为计算机领域太多地方用到树了，比如 DOM tree，抽象语法树AST，B/B+ 树，k-d树，红黑树。。。想到这里，我突然发现我，对于有些树不是很熟悉，如果问的问题往编译原理和数据库方向走了，那不就GG了，所以为了避免给自己挖坑&lt;/li&gt;
+&lt;li&gt;我就说，&lt;code class=&quot;language-text&quot;&gt;我觉得图最优意思&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;面试官说，&lt;code class=&quot;language-text&quot;&gt;为什么觉得图有意思呢&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;我说，&lt;code class=&quot;language-text&quot;&gt;因为它是最复杂的数据结构&lt;/code&gt; （后来想想，这才是给自己挖坑嘛）&lt;/li&gt;
+&lt;li&gt;面试官说，&lt;code class=&quot;language-text&quot;&gt;那你能具体说说吗&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;我说，&lt;code class=&quot;language-text&quot;&gt;我上过一门课人工智能，里面学了一个寻路算法，其中有个算法叫做 A星算法（A*），Blablabla&lt;/code&gt;，幸好上个学期刚上过，还没有忘完&lt;/li&gt;
+&lt;li&gt;然后面试官说，&lt;code class=&quot;language-text&quot;&gt;那你觉得淘宝有哪些地方可以用到图这个数据结构&lt;/code&gt;（这个时候我已经有点绷不住了）&lt;/li&gt;
+&lt;li&gt;我想了一会说，&lt;code class=&quot;language-text&quot;&gt;推荐系统吧，因为用户与商品间有联系，商品与商品间也有联系&lt;/code&gt;（我瞎说的，我根本不知道）&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;那你说说推荐算法&lt;/code&gt;（好了，绷不住了）&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;我不知道，没有学过，我上的人工智能的课主要还是做了些关于像之前的寻路算法，自然语言处理，人工神经网络的作业&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;那你讲讲人工神经网络是如何工作的吧&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;然后我blabla。因为作业是调用 PyTorch 这个库做的，所以不会涉及到里面复杂的算法，我就只说了最基础的理解。&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;嗯好，对了，你刚才说到了自然语言处理，你知道中文不像英文，语义化的分析很复杂，你说说看看你的理解&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;然后我隐约记得之前看过篇推文（后来查下是知乎），说谷歌翻译中文准确度猛地提高了，里面就应用了神经网络/深度学习。（到这里我就真的说不下去了，因为我上的课是非常入门的课，并没深入研究）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;When she reached the first hills of the &lt;strong&gt;Italic Mountains&lt;/strong&gt;, she had a last
-view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, the headline of
-&lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.&lt;/p&gt;
-&lt;h3&gt;Overlaid the jeepers uselessly much excluding&lt;/h3&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-&lt;a href=&quot;http://google.com&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;
-&lt;h3&gt;According a funnily until pre-set or arrogant well cheerful&lt;/h3&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;So baboon this&lt;/li&gt;
-&lt;li&gt;Mounted militant weasel gregariously admonishingly straightly hey&lt;/li&gt;
-&lt;li&gt;Dear foresaw hungry and much some overhung&lt;/li&gt;
-&lt;li&gt;Rash opossum less because less some amid besides yikes jeepers frenetic
-impassive fruitlessly shut&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word “and” and the Little Blind Text should turn around and
-return to its own, safe country.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.&lt;/p&gt;
-&lt;h4&gt;Silent delightfully including because before one up barring chameleon&lt;/h4&gt;
-&lt;p&gt;Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.&lt;/p&gt;
-&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.&lt;/p&gt;
-&lt;h5&gt;Wherever far wow thus a squirrel raccoon jeez jaguar this from along&lt;/h5&gt;
-&lt;p&gt;She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.&lt;/p&gt;
-&lt;h6&gt;Slapped cozy a that lightheartedly and far&lt;/h6&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word “and” and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/my-second-post/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/my-second-post/</guid><pubDate>Wed, 06 May 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.”?
-(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/hello-world/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/hello-world/</guid><pubDate>Fri, 01 May 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
-&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
-eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-charcoal paste. The eggs may also be sold with the salted paste removed,
-wrapped in plastic, and vacuum packed. From the salt curing process, the
-salted duck eggs have a briny aroma, a gelatin-like egg white and a
-firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/luo-blog/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Chinese Salty Egg&quot;
-        title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/luo-blog/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
-        srcset=&quot;/luo-blog/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
-/luo-blog/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
-/luo-blog/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
-/luo-blog/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
-/luo-blog/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
-/luo-blog/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;You can also write code blocks here!&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; saltyDuckEgg &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;chinese preserved food product&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;left&quot;&gt;Number&lt;/th&gt;
-&lt;th align=&quot;left&quot;&gt;Title&lt;/th&gt;
-&lt;th align=&quot;right&quot;&gt;Year&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;1&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;Harry Potter and the Philosopher’s Stone&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;2001&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;2&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;Harry Potter and the Chamber of Secrets&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;2002&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;3&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;Harry Potter and the Prisoner of Azkaban&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;2004&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;a href=&quot;https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md&quot;&gt;View raw (TEST.md)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;This is a paragraph.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is a paragraph.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h1&gt;Header 1&lt;/h1&gt;
-&lt;h2&gt;Header 2&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Header 1
-========
-
-Header 2
---------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h1&gt;Header 1&lt;/h1&gt;
-&lt;h2&gt;Header 2&lt;/h2&gt;
-&lt;h3&gt;Header 3&lt;/h3&gt;
-&lt;h4&gt;Header 4&lt;/h4&gt;
-&lt;h5&gt;Header 5&lt;/h5&gt;
-&lt;h6&gt;Header 6&lt;/h6&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h1&gt;Header 1&lt;/h1&gt;
-&lt;h2&gt;Header 2&lt;/h2&gt;
-&lt;h3&gt;Header 3&lt;/h3&gt;
-&lt;h4&gt;Header 4&lt;/h4&gt;
-&lt;h5&gt;Header 5&lt;/h5&gt;
-&lt;h6&gt;Header 6&lt;/h6&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1 #
-## Header 2 ##
-### Header 3 ###
-#### Header 4 ####
-##### Header 5 #####
-###### Header 6 ######&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;gt; Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;This is a header.&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;This is the first list item.&lt;/li&gt;
-&lt;li&gt;This is the second list item.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Here’s some example code:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Markdown.generate();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;gt; ## This is a header.
-&amp;gt; 1. This is the first list item.
-&amp;gt; 2. This is the second list item.
-&amp;gt;
-&amp;gt; Here&amp;#39;s some example code:
-&amp;gt;
-&amp;gt;     Markdown.generate();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;li&gt;
+&lt;p&gt;上面这只是其中一部分对话，类似的还问了&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;Blue&lt;/li&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;Blue&lt;/li&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;Blue&lt;/li&gt;
+&lt;li&gt;浏览器和Node的事件循环有差别，为什么要这么设计；&lt;/li&gt;
+&lt;li&gt;如果你来设计，如何设计 js 的事件循环；&lt;/li&gt;
+&lt;li&gt;关于你对 Flutter 发展的看法；&lt;/li&gt;
+&lt;li&gt;不同框架性能比较过吗；&lt;/li&gt;
+&lt;li&gt;React Native是如何实现的；&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Red
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Green
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Blue
-
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Red
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Green
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Blue
-
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Red
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Green
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Blue&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我当时就觉得为什么我这么菜啊，几乎一个问题都回答不出来，这些一连串的问题，直接把我问懵了，感受到了降维打击。当然啦，我还是努力地回答了所有的问题。&lt;/p&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;三面，四面，HR面&lt;/h3&gt;
+&lt;p&gt;接下来几面问的基础知识不是很多，有深刻印象的就下面 2 个，至于为什么印象深，嘿嘿，我是不会说出来的 😆&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt; goes here&lt;/li&gt;
+&lt;li&gt;ES6 中的 let 有块级作用域，那 ES5 是如何实现块级作用域的呢&lt;/li&gt;
+&lt;li&gt;Chrome 如何检测内存泄漏，怎么定位到哪一行&lt;/li&gt;
+&lt;li&gt;最后 HR 面是单纯聊天，不要皮，问你想不想来杭州，不要瞎说，说非常想来，上有天堂下有苏杭&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;- &lt;span class=&quot;token code keyword&quot;&gt;`code goes`&lt;/span&gt; here in this line
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt; goes here&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;总结一下&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;当时觉得二面压迫感挺强的。面对一个在前端领域深耕了10年的高级专家，之前的面经一点用也没有，我甚至有怀疑自己白学了前端，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;但回头看看，哪个学校里的教授不是在专业领域耕耘了一二十年的，为什么压迫感没有那么强呢&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;想了想有 2 个原因&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一个是并没有被教授以求职的要求面试过，如果他拿出真正的东西想考你，你也直接被问懵B&lt;/li&gt;
+&lt;li&gt;二来还是心理因素，不应该觉得前端很神秘，也不能觉得前端很容易，保持敬畏谦虚，同时也不害怕就好&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;三、我是如何学习前端的&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这节我按时间线，回顾记录了下我的学习路线，供小伙伴参考&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;前端学习时间线梳理&lt;/h2&gt;
+&lt;p&gt;我最早开始学习是从买了 Udemy 的一个网课开始的 &lt;a href=&quot;https://www.udemy.com/course/the-complete-javascript-course/&quot;&gt;The Complete JavaScript Course 2020: Build Real Projects!&lt;/a&gt; （当时还不是2020，还是2019，我之前以为是2019年出的呢，哪知道它每年都改个名字！），跟着这个网课学习了JS基础，最后做了一个 &lt;a href=&quot;https://law-chain-hot.github.io/recipe-project/&quot;&gt;搜索菜谱&lt;/a&gt; 的页面。我对于前端的兴趣也是在这个过程中被点燃了。过程中我也边写边做笔记，现在看来有点形式大于收益了，写得像 &lt;a href=&quot;https://github.com/law-chain-hot/md-all-notes/issues/4&quot;&gt;流水账&lt;/a&gt; 一样，当然当时我也乐在其中。&lt;/p&gt;
+&lt;p&gt;但是紧接着，我就犯了一个错误，我在 Coursera 上买了一个前端课程。&lt;/p&gt;
+&lt;p&gt;也许你会说，什么？Coursera 不是都是大学教授上课吗，他们也教前端？对，真的有，但是我错就错在这里。&lt;/p&gt;
+&lt;p&gt;之前也上过 Coursera 上的数据结构课程，我对它的印象很不错，但是前端是非常贴近业界的行业，而大学教授讲的课程，显然比不上一线从业人员的课程，除非老师深入到了某些细分的可以深入研究的领域，比如人机交互。但是，这个老师讲的是基础Web开发，于是跟他学习了 Bootstrap，再接着上 React，而 React 的课程上到一半，我是真的听不懂了，不知道他在讲什么，我就停止了。于是因为这个，我大概歇了10多天没有学习前端。&lt;/p&gt;
+&lt;p&gt;而后我发现，YouTube 上很多免费的视频质量其实非常高，比如这些频道 &lt;a href=&quot;https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ&quot;&gt;Coding Tech&lt;/a&gt; 和 &lt;a href=&quot;https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ&quot;&gt;freeCodeCamp.org&lt;/a&gt;，应该也有中文翻译，大家可以酌情学习。&lt;/p&gt;
+&lt;p&gt;再说回来，自从不上那个老师的课之后，我就轻松多了，开始换了个方式学习 React。先是把 &lt;a href=&quot;https://zh-hans.reactjs.org/tutorial/tutorial.html&quot;&gt;React官方文档&lt;/a&gt; 里面的 小游戏 跟着教程走了一遍，然后自己用 React 写了个人主页部署到了GitHub。创造点东西对于我来说，是非常重要的保持学习热情的手段。&lt;/p&gt;
+&lt;p&gt;再往后，就没跟着某个教程学习了，这段时间就是哪里不会学哪里，遇到问题，搜索，解决问题，记下来，再遇到问题，开启循环。大概是这么一个学习路线。&lt;/p&gt;
+&lt;p&gt;同时，也去阅读了一些博客，专栏文章，别人的学习经验，建立了自己的知识体系。后来，各个企业春招开始了，我开始通过面经，完善了自己的知识体系（确实很有效，这跟高中做模考复习，而不是通读课本复习是一个道理）&lt;/p&gt;
+&lt;p&gt;因为不喜欢用电脑读书，所以整个过程中，有任何问题，我都是直接用搜索引擎学习。&lt;/p&gt;
+&lt;h2&gt;总结下我学习的路线&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;网课入门 --&amp;gt; 写了第一个项目 --&amp;gt; 点燃热情 --&amp;gt; 
+继续上课 --&amp;gt; 阅读博客、专栏 --&amp;gt; 建立体系 --&amp;gt; 
+面向面经编程 --&amp;gt; 完善知识体系&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;我现在自己的不足之处还是很多，比如和科班的同学相比，我没有学过编译原理，计算机结构，操作系统。这些东西我都放在了我日后的学习计划里。&lt;/p&gt;
+&lt;h1&gt;四、自己的经验（干货阶段）&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我结合我自身的情况，推荐一些影响我的文章和人
+也可以理解为，如果让我现在给入门时的自己一些建议，我会给我自己这些建议，大家可以参考&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;1. Coursera 前端课程千万不要看&lt;/h2&gt;
+&lt;p&gt;哈哈，抖个机灵，（逃&lt;/p&gt;
+&lt;h2&gt;2. 一定要阅读高质量的文章&lt;/h2&gt;
+&lt;p&gt;阅读最优质的的文章，才能学到优质的内容，知识本身无高低，但是经过整理消化后的让你容易吸收，这就是好的文章带来的附加值。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;掘金上面就有很多优质的文章&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Buy flour and salt&lt;/li&gt;
-&lt;li&gt;Mix together with water&lt;/li&gt;
-&lt;li&gt;Bake&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/5aa5cb846fb9a028e25d2fb1&quot;&gt;从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！&lt;/a&gt;，作者是钉钉的前端大佬，写得非常详细，涵盖了大部分知识点，梳理整个体系，我首推这篇文章。如笔者所说，特别对于新手，不建议一次就看完，而是经常去回顾，总有新收获（一年逛两次海澜之家，每次都有新收获？）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/5df5bcea6fb9a016091def69&quot;&gt;(1.6w字)浏览器灵魂之问，请问你能接得住几个？&lt;/a&gt;，作者是神三元大佬，经常混迹掘金的同学应该不会陌生，写的文章深入浅出，是我辈学习的榜样，经常看标题就会忍不住点进去。这篇文章和上一篇结合着看，效果奇好。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/5c75d34851882564965edb23&quot;&gt;我如何零基础转行成为一个自信的前端&lt;/a&gt;，我要重磅推一下这篇文章，作者应该现在是在蚂蚁金服，他非常详细地介绍了他从一个零基础的文科生转行到前端的过程，并且推荐了非常多的行业大牛以及函数式编程的学习方法。虽然我也在跟着学，但我感觉把他推荐的东西学完，至少得脱产学习大半年，而这篇文章真正带给我的是一种思维模式和视野，让我知道了我可以用一种更大的视野去了解前端，这对于一个新人来说，是非常难得的。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Buy flour and salt
-&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Mix together with water
-&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Bake&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;这里列的并不全，还有很多类似的文章。这样的文章的好处是，你可以系统性梳理知识点，作者和你几乎处于同一时期，他们筛选过的知识，是你的当下最需要的。&lt;/p&gt;
+&lt;p&gt;最后是我觉得读文章要适可而止，可以暂时不要深究，像 Chrome 这种庞然大物，光 V8引擎 就够喝一壶了，并且很多机制随时都在变，不能把每个版本的变化都背下来吧，我认为新手一开始有个大概的了解就好。&lt;/p&gt;
+&lt;h2&gt;3. 那如何分辨高质量的文章&lt;/h2&gt;
+&lt;p&gt;有两个方法，找一手资料，或者高质量转述资料、大牛文章&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt; goes here&lt;/li&gt;
+&lt;li&gt;找一手资料&lt;/li&gt;
+&lt;li&gt;找大牛写的文章&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;1. &lt;span class=&quot;token code keyword&quot;&gt;`code goes`&lt;/span&gt; here in this line
-&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt; goes here&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Paragraph:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;!-- --&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Paragraph:
+&lt;p&gt;举个例子，关于 V8 的文章&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/29638866&quot;&gt;[知乎] JavaScript 在 V8 中的元素种类及性能优化&lt;/a&gt;，这篇文章是某次面试因为被问到 V8 里面 Array 具体是如何实现的，后来去搜索这个问题，找到了这篇文章。看完后觉得这篇文章是我看过的写的最易懂的，循序渐进，有理论也有例子。当时以为是答主自己写的，结果仔细一看，这是翻译的官网的文章。（没有说答主不好的意思，答主也是位大牛，Deno 的核心贡献者）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://v8.dev/blog/elements-kinds&quot;&gt;‘Elements kinds’ in V8&lt;/a&gt;，顺着他给的链接，我找到原文地址，在 V8 的官网上。如果，答主没有翻译这篇文章，那我是不是就看不到这篇文章了？是的，我肯定就检索不到这么好的文章了。所以很多时候，一手资料可以给你更多的主动权。 Evan You 比作为 尤小右 的身份是更活跃的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;但是，读一手资料，英语是最大的问题，我英语其实属于非常不好的。&lt;/p&gt;
+&lt;p&gt;能有多不好？嗯，我没见过托福比我还低的同学（我也永远不会说我的分数的）&lt;/p&gt;
+&lt;p&gt;但是我也在强迫自己阅读英文材料，只要能达到4，6级的水平，读技术文章问题不会很大。大家有不会的词和句子就用翻译软件就好。&lt;/p&gt;
+&lt;p&gt;而我觉得最难的地方在于开始阅读，因为我潜意识知道，我读中文一定比英文快，我眼睛对中文敏感，一次扫视，能瞬间抓住页面的关键词。&lt;/p&gt;
+&lt;p&gt;正是因为这样，当我正在兴致勃勃写代码时（或者代码所需工作量特别大时），需要查询资料，我会下意识使用中文，而不是英文，因为我不想打断写码的思路去研究英语。&lt;/p&gt;
+&lt;p&gt;所以，最好的方式是找一个专门的时间，开始一点点尝试阅读技术文章，当你自信到阅读英文材料效率不会比读中文慢太多时，那就走上正轨了，现在我自己也完全不会抗拒英文材料&lt;/p&gt;
+&lt;p&gt;（顺便插一句，不止是英文这件事，如果觉得当目前的工作已经压到你不再有时间去提升自己的能力的时候，那是时候考虑其他出路了，因为体力劳动的可替代性太强了）&lt;/p&gt;
+&lt;h2&gt;4. 高质量文章的好处&lt;/h2&gt;
+&lt;p&gt;好的文章能让你快速理解消化其内容，举两个例子，&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;闭包&lt;/code&gt;：以一系列高质量的博文为例&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;原型链&lt;/code&gt;：以 &lt;a href=&quot;https://github.com/BYVoid&quot;&gt;BYVoid&lt;/a&gt; 大佬画的示意图为例&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;例子1：闭包的理解&lt;/h3&gt;
+&lt;!-- ```
+点击下方按钮，展开内容👇
+``` --&gt;
+&lt;!-- &lt;details&gt;
+    &lt;summary&gt; &lt;b&gt;点我点我点我&lt;/b&gt; 🚀 &lt;/summary&gt; --&gt;
+&lt;!-- --- --&gt;
+&lt;p&gt;&lt;strong&gt;闭包的定义&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Like most modern programming languages, JavaScript uses lexical scoping. This means that functions are executed using the variable scope that was in effect when they were defined, not the variable scope that is in effect when they are invoked. In order to implement lexical scoping, the internal state of a JavaScript function object must in- clude not only the code of the function but also a reference to the current scope chain. (Before reading the rest of this section, you may want to review the material on variable scope and the scope chain in §3.10 and §3.10.3.) This combination of a function object and a scope (a set of variable bindings) in which the function’s variables are resolved is called a closure in the computer science literature. (This is an old term that refers to the fact that the function’s variables have bindings in the scope chain and that therefore the function is “closed over” its variables.)&lt;/p&gt;
+&lt;p&gt;Technically, all JavaScript functions are closures: they are objects, and they have a scope chain associated with them. Most functions are invoked using the same scope chain that was in effect when the function was defined, and it doesn’t really matter that there is a closure involved. Closures become interesting when they are invoked under a different scope chain than the one that was in effect when they were defined. This happens most commonly when a nested function object is returned from the function within which it was defined. There are a number of powerful programming techniques that involve this kind of nested function closures, and their use has become relatively common in JavaScript programming. Closures may seem confusing when you first en- counter them, but it is important that you understand them well enough to use them comfortably.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;JavaScript, The Definitive Guide&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不想看英文，中文翻译可以看 rccoder 的博客 &lt;a href=&quot;https://github.com/rccoder/blog/issues/3&quot;&gt;JavaScript之闭包相关&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;带着这段定义，转跳到冴羽的博客 &lt;a href=&quot;https://github.com/mqyqingfeng/Blog&quot;&gt;冴羽写博客的地方&lt;/a&gt;，看完它的深入系列 2-8&lt;/p&gt;
+&lt;p&gt;最后再看懂下面 5 个例子的区别，那么 &lt;code class=&quot;language-text&quot;&gt;闭包&lt;/code&gt; 这个概念算是掌握了&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// ====== 例子1 ======&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; i &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; i &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; i&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token function&quot;&gt;setTimeout&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;i&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; 
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// 10 10 10 ....&lt;/span&gt;
 
-    Code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;* * *
 
-***
+&lt;span class=&quot;token comment&quot;&gt;// ====== 例子2 ======&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; i &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; i &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; i&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token function&quot;&gt;setTimeout&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;e&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;i&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// 1 2 3 4 5 6 7....&lt;/span&gt;
 
-*****
 
-- - -
+&lt;span class=&quot;token comment&quot;&gt;// ====== 例子3 ======&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; i &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; i &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; i&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token function&quot;&gt;setTimeout&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;i&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; 
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// undefined undefined undefined ... &lt;/span&gt;
 
----------------------------------------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Example&quot;&gt;an example&lt;/a&gt; link.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://example.com&quot;&gt;This link&lt;/a&gt; has no title attr.&lt;/p&gt;
-&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Optional Title&quot;&gt;an example&lt;/a&gt; reference-style link.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is [an example](http://example.com &amp;quot;Example&amp;quot;) link.
 
-[This link](http://example.com) has no title attr.
+&lt;span class=&quot;token comment&quot;&gt;// ====== 例子4 ======&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;global&apos;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;test1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;test2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    x &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;local&apos;&lt;/span&gt;
+    &lt;span class=&quot;token function&quot;&gt;test1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;test2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// local&lt;/span&gt;
 
-This is [an example] [id] reference-style link.
 
-[id]: http://example.com &amp;quot;Optional Title&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;em&gt;single asterisks&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;single underscores&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;double asterisks&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;double underscores&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;*single asterisks*
-
-_single underscores_
-
-**double asterisks**
-
-__double underscores__&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;This paragraph has some &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt; in it.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This paragraph has some `code` in it.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;https://placehold.it/200x50&quot; alt=&quot;Alt Text&quot; title=&quot;Image Title&quot;&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![Alt Text](https://placehold.it/200x50 &amp;quot;Image Title&amp;quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
+&lt;span class=&quot;token comment&quot;&gt;// ====== 例子5 ======&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;global&apos;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;test1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;test2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;local&apos;&lt;/span&gt;
+    &lt;span class=&quot;token function&quot;&gt;test1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;test2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// global&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;最后，具体应用的话，可以参考 程墨Morgan 大佬的知乎专栏，&lt;a href=&quot;https://zhuanlan.zhihu.com/p/84697185&quot;&gt;React useEffect的陷阱&lt;/a&gt;，理解了闭包，就理解了这篇文章&lt;/p&gt;
+&lt;h3&gt;例子2：原型链的理解&lt;/h3&gt;
+&lt;p&gt;BYVoid 的原博文地址&lt;a href=&quot;https://www.byvoid.com/zhs/blog/javascript-object-prototype&quot;&gt;JavaScript对象与原型&lt;/a&gt;，他用了非常简单的例子 + 一张图让我很快就明白了什么是原型链，而我之前看到文章，洋洋洒洒几百字，我也没看懂。下图来自原博文&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/57960778/80254351-a1467680-8640-11ea-8350-a3c981141897.png&quot; width=&quot;70%&quot;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Javascript语言实际上是两种语言风格的混合产物----（简化的）函数式编程+（简化的）面向对象编程`  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Javascript诞生记&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如果有兴趣，也可以看下阮一峰老师写的关于JavaScript的起源 &lt;a href=&quot;https://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html&quot;&gt;Javascript诞生记&lt;/a&gt;，了解下为什么 JS 会有原型链，同时也支持函数为一等公民&lt;/p&gt;
+&lt;h2&gt;5. 推荐的一些博客&lt;/h2&gt;
+&lt;p&gt;我说一些我自己的平时看的博客吧（感觉很多大牛主阵地在知乎了，大家可以去知乎找到他们）&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/mqyqingfeng/Blog&quot;&gt;冴羽的博客 - GitHub&lt;/a&gt;，冴羽大佬的博客，他的深入js系列，我从中受益颇多&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ruanyifeng.com/blog/&quot;&gt;阮一峰的网络日志&lt;/a&gt;，阮一峰大大的博客，刚才才提到，这个不用说，知识深度广度都有&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.yinwang.org/&quot;&gt;当然我在扯淡&lt;/a&gt;，王垠大神的博客，博客名字不是我瞎写的，就叫这个。他写的东西不是应用层的，更偏向于理论层，所以我自己多数时候也看不懂。另外知乎上对他褒贬不一，但暂时还轮不到我，我的话膜就完事了。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://coolshell.cn/&quot;&gt;酷壳 - coolshell&lt;/a&gt;，陈皓，网名左耳朵耗子，是一位有 20 年软件开发相关工作经验的大佬（能 20 年一直持续做技术，这样的人太少了，最新的一篇博文是2020年4月4号的，大家感受一下）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/lifesinger/blog/issues&quot;&gt;玉伯的博客 - GitHub&lt;/a&gt;，玉伯大神的博客，8年前就下了前端的归宿与价值，有时看一看前辈们从前对于行业的感悟，是一件非常奇妙的事情&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/fouber/blog&quot;&gt;张云龙的博客 - GitHub&lt;/a&gt;，也是一位大佬，不过像玉伯一样，早已不更新&lt;/li&gt;
+&lt;li&gt;…&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;还有太多太多了，他们只是这个大社区的一部分，无数开源项目促成了整个生态的繁荣，这种开源的分享精神是 计算机 领域吸引我的重要的一个点。&lt;/p&gt;
+&lt;h1&gt;五、 我自己的疑问和自己的思考&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;最后一个部分，也是一个我自己的总结，以及这段时间我想明白的一些事情&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;为什么转专业
+上文提到了，喜欢这边的开源氛围。举个不恰当的例子，很多领域大家在知识的分享上建起高墙，一辈子守着祖传代码吃饭，非本门派的弟子武功是不能外传的，普通人很难获取到信息，就像阶级固化严重的社会，没有背景的人机会是很小的；而在计算机领域则不同，任何一个普通人，都可以获取到绝大部分信息，那这才是一个有流动性的社会，我作为普通人，当然支持后者&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;学习压力很大如何应对
+我第一学期上数据挖掘，上课前连 Python 都不会用，第一个作业问了学长，他写了一个晚上4，5个小时作业，我写了大概 5 天，而且每天都在写。这个差距真的很大。&lt;/p&gt;
+&lt;p&gt;戒指里没藏老头，肚子里没有尾兽，没有童年误食恶魔果实，也没有一个名为金的猎人老爹，无任何 buff 的新手就被扔到了大龙面前 solo，而且周围队友不是等级比我高就是有红蓝 buff 在手，这样的研究生开局没有 peer perssure 才怪。不过还好，后来我找准了自己的位置。&lt;/p&gt;
+&lt;p&gt;我现在怎么看 peer pressure？&lt;/p&gt;
+&lt;p&gt;任何层次都有，我们的压力是学霸，学神；学神的压力的是大牛；行业的大牛的压力来自行业领导者，比如 Java 之父高司令，C++之父 Bjarne Stroustrup，22 岁发布 Linux 内核的源代码的 Linus（强如他们，如果，他们把自己对标历史上的伟人，比如费曼，爱因斯坦，牛顿，那他们得一辈子活在压力之下）。所以简单就好了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;为什么要写博文
+我之前虽然也一直在坚持写博客，但是现在回看，很多都是垃圾博文，即无分享价值，也没有提炼关键信息供深度思考，唯一的好处是让记忆更深刻 + 打字速度变快。那么我之后的计划是尽量写高质量的博文，至少要满足下面中的其中一个&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;有分享价值&lt;/li&gt;
+&lt;li&gt;有回看价值&lt;/li&gt;
+&lt;li&gt;最后要注意可读性，重要的不是表达，而是表达的内容，如果让人读不下去，怎么传递内容&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/57960778/80266066-a7981b00-865f-11ea-9a26-bb81f1955f9a.png&quot; alt=&quot;image2&quot;&gt;&lt;/p&gt;
+&lt;h1&gt;六、结尾&lt;/h1&gt;
+&lt;p&gt;最后引用韩寒说的一句话结尾吧，虽然原话表达的意思可能不是这个，但是我觉得用来描述开源精神是无比合适的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;只是他们替我撞过了每一堵我可能要撞的高墙，摔落了每一道我可能要落进的沟壑，然后告诉我，这条路没错，继续前行吧&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;他们先行，我替他们收拾着因为跑太快从口袋里跌落的扑克牌，我始终跑在他们划破的气流里，不过我也不曾觉得风阻会减小一些，&lt;strong&gt;只是他们替我撞过了每一堵我可能要撞的高墙，摔落了每一道我可能要落进的沟壑，然后告诉我，这条路没错，继续前行吧&lt;/strong&gt;，但你已经用掉了一次帮助的机会，再见了朋友。
+——韩寒 《1998 我想和这个世界谈谈》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;后记&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;我本来希望不写废话，有些废话是让我的表达更严谨了，但是这既没有增加有趣程度吸引观众，也没增强我的专业性。可。。。可是，太难了，还是写到了6000多字&lt;/li&gt;
+&lt;li&gt;我觉得半佛仙人老师写的文章就是 简洁 + 硬核 + 有趣（sao），值得我学习。&lt;/li&gt;
+&lt;li&gt;完&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
