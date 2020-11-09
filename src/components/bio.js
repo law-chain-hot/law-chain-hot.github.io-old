@@ -29,6 +29,7 @@ const Bio = () => {
           }
           social {
             twitter
+            GitHubURL
           }
         }
       }
@@ -37,7 +38,10 @@ const Bio = () => {
 
   // Set these values by editing "siteMetadata" in gatsby-config.js
   const author = data.site.siteMetadata?.author
+  const summary = data.site.siteMetadata?.author?.summary
+
   const social = data.site.siteMetadata?.social
+  const GitHubURL = data.site.siteMetadata?.social?.GitHubURL
 
   const avatar = data?.avatar?.childImageSharp?.fixed
 
@@ -58,9 +62,12 @@ const Bio = () => {
           <div className="Flex-box-center">
             <p>
               Personal blog by
-              <a className="a-underline" href="https://github.com/law-chain-hot"> Brian Luo </a>
+              <a className="a-underline" href={GitHubURL}>
+                {" "}
+                Brian Luo{" "}
+              </a>
             </p>
-            <p style={{fontSize: 'small'}}>An Engineering Master Student @ UIUC && Front End Developer</p>
+            <p style={{ fontSize: "small" }}>{summary}</p>
           </div>
         )}
       </div>

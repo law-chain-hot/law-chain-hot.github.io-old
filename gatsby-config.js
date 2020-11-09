@@ -4,12 +4,13 @@ module.exports = {
     title: `Luo's Blog`,
     author: {
       name: `Qianhao Luo`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `An Engineering Master Student @ UIUC & Front End Developer.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Luo's blog demonstrating front end and life.`,
+    siteUrl: `https://law-chain-hot.github.io/luo-blog/`,
     social: {
       twitter: `kylemathews`,
+      GitHubURL: `https://github.com/law-chain-hot`
     },
   },
   plugins: [
@@ -80,5 +81,16 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        // You can add multiple tracking ids and a pageview event will be fired for all of them.
+        trackingIds: [
+          "G-8EJ2TVLRT7", // Google Analytics / GA
+          // "AW-CONVERSION_ID", // Google Ads / Adwords / AW
+          // "DC-FLOODIGHT_ID", // Marketing Platform advertising products (Display & Video 360, Search Ads 360, and Campaign Manager)
+        ],
+      },
+    },
   ],
 }
