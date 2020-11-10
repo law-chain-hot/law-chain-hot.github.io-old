@@ -1,4 +1,4 @@
-import './global.css'
+// import './global.css'
 
 import Typography from "typography"
 // import fairyGateTheme from "typography-theme-fairy-gates"

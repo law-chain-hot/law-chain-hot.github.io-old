@@ -6,6 +6,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 import "prismjs/themes/prism-okaidia.css"
+import "./global.css"
 
 
 const BlogPostTemplate = ({ data, location }) => {
