@@ -1,6 +1,6 @@
 module.exports = {
-  // pathPrefix: "/luo-blog",
-  pathPrefix: "",
+  pathPrefix: "/luo-blog",
+  // pathPrefix: "",
   siteMetadata: {
     title: `Luo's Blog`,
     author: {
@@ -10,7 +10,7 @@ module.exports = {
     description: `Luo's blog demonstrating front end and life.`,
     siteUrl: `https://law-chain-hot.github.io/luo-blog/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: ``,
       GitHubURL: `https://github.com/law-chain-hot`
     },
   },
