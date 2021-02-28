@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Luo's Blog]]></title><description><![CDATA[Luo's blog demonstrating front end and life.]]></description><link>https://law-chain-hot.github.io/luo-blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 27 Feb 2021 12:51:10 GMT</lastBuildDate><item><title><![CDATA[I'm back]]></title><description><![CDATA[我准备开始重新写博文，目标是 精炼]]></description><link>https://law-chain-hot.github.io/luo-blog/I-am-back/</link><guid isPermaLink="false">https://law-chain-hot.github.io/luo-blog/I-am-back/</guid><pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;我准备开始重新写博文，目标是&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Luo's Blog]]></title><description><![CDATA[Luo's blog demonstrating front end and life.]]></description><link>https://law-chain-hot.github.io/luo-blog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 28 Feb 2021 05:56:37 GMT</lastBuildDate><item><title><![CDATA[Linux 学习记录]]></title><description><![CDATA[Things I don’t konw - updating 1. 什么是脚本 它是一个文本文件 它具有可执行权限 它会调用解释器执行程序 其中  声明解释器   添加执行权限]]></description><link>https://law-chain-hot.github.io/luo-blog/Linux-learning/</link><guid isPermaLink="false">https://law-chain-hot.github.io/luo-blog/Linux-learning/</guid><pubDate>Sun, 28 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;Things I don’t konw - updating&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;1. 什么是脚本&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;它是一个文本文件&lt;/li&gt;
+&lt;li&gt;它具有可执行权限&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;它会调用解释器执行程序&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;shell&quot;&gt;&lt;pre class=&quot;language-shell&quot;&gt;&lt;code class=&quot;language-shell&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# test.sh&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;#! /bin/sh&lt;/span&gt;
+&lt;span class=&quot;token builtin class-name&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;hello, world&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;其中 &lt;code class=&quot;language-text&quot;&gt;#! /bin/sh&lt;/code&gt; 声明解释器 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;chmod +x test.sh&lt;/code&gt; 添加执行权限&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[I'm back]]></title><description><![CDATA[我准备开始重新写博文，目标是 精炼]]></description><link>https://law-chain-hot.github.io/luo-blog/I-am-back/</link><guid isPermaLink="false">https://law-chain-hot.github.io/luo-blog/I-am-back/</guid><pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;我准备开始重新写博文，目标是&lt;/p&gt;
 &lt;p&gt;精炼&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2020年4月 | 记阿里淘系 intern offer 后的小总结]]></title><description><![CDATA[原标题 《我是如何从零基础到淘系前端offer --- 阶段性总结》 image1 零、 这篇文章是什么 这是我阶段性总结，写这篇文章有…]]></description><link>https://law-chain-hot.github.io/luo-blog/review-intern-interview/</link><guid isPermaLink="false">https://law-chain-hot.github.io/luo-blog/review-intern-interview/</guid><pubDate>Fri, 06 Nov 2020 16:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;原标题 《我是如何从零基础到淘系前端offer --- 阶段性总结》&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -282,19 +298,4 @@
 &lt;li&gt;我本来希望不写废话，有些废话是让我的表达更严谨了，但是这既没有增加有趣程度吸引观众，也没增强我的专业性。可。。。可是，太难了，还是写到了6000多字&lt;/li&gt;
 &lt;li&gt;我觉得半佛仙人老师写的文章就是 简洁 + 硬核 + 有趣（sao），值得我学习。&lt;/li&gt;
 &lt;li&gt;完&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Brian Test]]></title><description><![CDATA[这个测试是针对中文的 我也不知道会怎么样 I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a great quote from this Wikipedia on…]]></description><link>https://law-chain-hot.github.io/luo-blog/brian-test/</link><guid isPermaLink="false">https://law-chain-hot.github.io/luo-blog/brian-test/</guid><pubDate>Sun, 01 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;这个测试是针对中文的&lt;/p&gt;
-&lt;h2&gt;我也不知道会怎么样&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// test 中文&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; test &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;能&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
-&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
-eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-charcoal paste. The eggs may also be sold with the salted paste removed,
-wrapped in plastic, and vacuum packed. From the salt curing process, the
-salted duck eggs have a briny aroma, a gelatin-like egg white and a
-firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item></channel></rss>
+&lt;/ul&gt;</content:encoded></item></channel></rss>
