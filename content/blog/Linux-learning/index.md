@@ -35,10 +35,8 @@ echo "hello, world"
 
 可以在 current terminal + shell script 中调用
 
-- 用户环境变量
-  - `source ~/.zshrc` 直接使环境变量生效 (如果使用 zsh )
-- 系统环境变量
-  - `/etc/profile`
+- 用户环境变量: `source ~/.zshrc` 直接使环境变量生效 (如果使用 zsh )
+- 系统环境变量: `/etc/profile`
 
 > **`etc文件夹`** 
 > 
